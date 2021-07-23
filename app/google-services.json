@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116341294781",
+    "project_id": "xeon-2b340",
+    "storage_bucket": "xeon-2b340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116341294781:android:3b267d0df854362fb519d4",
+        "android_client_info": {
+          "package_name": "com.example.xeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116341294781-so3mh2qhisg4nbntmfohqte90qe37tpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xeon",
+            "certificate_hash": "541ae76f3ad289fcfa1e3937c98dc03b9c621cd3"
+          }
+        },
+        {
+          "client_id": "116341294781-h8eqcnlj1p0nrphln5s94ca04jakn8bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpPcpxMP5NSKo0f8Qm3XM_gpQbC2mE-Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116341294781-h8eqcnlj1p0nrphln5s94ca04jakn8bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
